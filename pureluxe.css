@@ -163,6 +163,7 @@
     text-align: center;
     padding: 20px;
 }
+@media (max-width: 800px) {.free-content {padding: 12px;}}
 .free-content i {
     color: lime;
     display: block;
