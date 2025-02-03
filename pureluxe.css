@@ -257,6 +257,7 @@ footer {
     border: none;
     border-radius: 18px;
 }
+@media (max-width: 800px) {.b-links-content input[type=email]{width: 100%;}
 .payment {
     text-align: center;
     width: 100%;
