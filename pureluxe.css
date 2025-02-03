@@ -224,6 +224,7 @@ footer {
     box-sizing: border-box;
     color: white;
 }
+@media (max-width: 800px) {footer {padding: 2em 1em;}}
 .small {
     display: flex;
     justify-content: space-between;
